@@ -1,4 +1,4 @@
-<!-- 
+<!--
 NavPath: Bing Speech API/Speech Recognition/REST API
 LinkLabel: Get started in cURL
 Url: Speech-api/documentation/GetStarted/GetStartedcURL
@@ -24,8 +24,8 @@ This example assumes that **cURL** is available in your bash environment.
 * #### Platform requirements
 The below example has been developed in **bash**. (Also works in git bash/zsh/etc)
 
-* #### Subscribe to Speech API and get a free trial subscription key 
-Before creating the example, you must subscribe to Speech API which is part of Microsoft Cognitive Services (previously Project Oxford). For subscription and key management details, see [Subscriptions](https://www.microsoft.com/cognitive-services/en-us/sign-up). Both the primary and secondary key can be used in this tutorial. 
+* #### Subscribe to Speech API and get a free trial subscription key
+Before creating the example, you must subscribe to Speech API which is part of Microsoft Cognitive Services (previously Project Oxford). For subscription and key management details, see [Subscriptions](https://www.microsoft.com/cognitive-services/en-us/sign-up). Both the primary and secondary key can be used in this tutorial.
 
 ### <a name="Step1">Step 1: Generate an access token</a>
 1.	Replace **your_subscription_key** with your own subscription key and run the command in **bash**.
@@ -44,11 +44,11 @@ Before creating the example, you must subscribe to Speech API which is part of M
 2. Parse the Succcessful recognition response or Error response
 
 ### <a name="Related">Related Topics</a>
-* [Get Started with Bing Speech Recognition in C Sharp for .Net on Windows Desktop](GetStartedCSharpDesktop.md) 
+* [Get Started with Bing Speech Recognition in C Sharp for .Net on Windows Desktop](GetStartedCSharpDesktop.md)
 * [Get Started with Bing Speech Recognition in C Sharp for .Net on Windows Phone 8.1](GetStartedCSharpWinPhone.md)
 * [Get started with Bing Speech Recognition and/or intent in Java on Android](GetStartedJavaAndroid.md)
 * [Get started with Bing Speech Recognition and/or intent in JavaScript](GetStartedJS.md)
-* [Get started with Bing Speech Recognition and/or intent in Objective C on iOS](Get-Started-ObjectiveC-iOS.md) 
+* [Get started with Bing Speech Recognition and/or intent in Objective C on iOS](Get-Started-ObjectiveC-iOS.md)
 
 
 For questions, feedback, or suggestions about Microsoft Cognitive Services, feel free to reach out to us directly.
